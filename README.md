@@ -9,9 +9,6 @@ I'm a Frontend developer working with [Vue](https://vuejs.org) and [React](https
 <a href="https://linkedin.gonzalopozzo.com">
 <img align="left" alt="Gonzalo Pozzo LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
-<a href="https://youtube.gonzalopozzo.com">
-<img align="left" alt="Gonzalo Pozzo YouTube" width="22px" src="https://icongr.am/fontawesome/youtube.svg?size=128&color=70c8ff" />
-</a>
 <a href="https://www.instagram.com/francoalemandi_//">
 <img align="left" alt="Franco Alemandi Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
