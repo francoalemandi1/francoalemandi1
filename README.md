@@ -1,5 +1,5 @@
 ## Hi 👋 It's [Franco!](http://francoalemandi.com)
-I'm a Frontend developer working with [Vue](https://vuejs.org) and [React](https://reactjs.org).
+I'm a Frontend developer working with [Vue](https://vuejs.org) and [React](https://reactjs.org). I'm also learning Nodejs and GraphQL in my job.
 
 <br/>
 
